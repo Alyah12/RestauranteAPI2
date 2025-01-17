@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76cbe934-38b6-4722-8b5f-2b93dedc4d24" name="Changes" comment="" />
+    <list default="true" id="76cbe934-38b6-4722-8b5f-2b93dedc4d24" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestauranteAPI/RestauranteServer/RestauranteServer/RestauranteServer.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/RestauranteAPI/RestauranteServer/RestauranteServer/RestauranteServer.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestauranteAPI/RestauranteServer/RestauranteServer/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/RestauranteAPI/RestauranteServer/RestauranteServer/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestauranteAPI/RestauranteServer/RestauranteServer/obj/Debug/net8.0/RestauranteServer.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RestauranteAPI/RestauranteServer/RestauranteServer/obj/Debug/net8.0/RestauranteServer.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestauranteAPI/RestauranteServer/RestauranteServer/obj/Debug/net8.0/RestauranteServer.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RestauranteAPI/RestauranteServer/RestauranteServer/obj/Debug/net8.0/RestauranteServer.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestauranteAPI/RestauranteServer/RestauranteServer/obj/Debug/net8.0/RestauranteServer.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RestauranteAPI/RestauranteServer/RestauranteServer/obj/Debug/net8.0/RestauranteServer.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestauranteAPI/RestauranteServer/RestauranteServer/obj/RestauranteServer.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/RestauranteAPI/RestauranteServer/RestauranteServer/obj/RestauranteServer.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestauranteAPI/RestauranteServer/RestauranteServer/obj/RestauranteServer.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/RestauranteAPI/RestauranteServer/RestauranteServer/obj/RestauranteServer.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestauranteAPI/RestauranteServer/RestauranteServer/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/RestauranteAPI/RestauranteServer/RestauranteServer/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestauranteAPI/RestauranteServer/RestauranteServer/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RestauranteAPI/RestauranteServer/RestauranteServer/obj/project.nuget.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +33,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Alyah12/Restaurante.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/Alyah12/RestauranteAPI2.git&quot;,
     &quot;accountId&quot;: &quot;2ffeb547-ddac-447b-9ea6-8e695aabcf19&quot;
   }
 }</component>
@@ -39,20 +50,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "ignore_missing_gitignore": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/heber/Restaurante&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.112" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,6 +84,9 @@
       <workItem from="1733633488209" duration="175000" />
       <workItem from="1733634106128" duration="505000" />
       <workItem from="1733634619986" duration="305000" />
+      <workItem from="1733636168739" duration="35000" />
+      <workItem from="1734015614866" duration="91000" />
+      <workItem from="1734030410463" duration="45000" />
     </task>
     <task id="LOCAL-00001" summary="Update project">
       <option name="closed" value="true" />
